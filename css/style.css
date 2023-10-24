@@ -39,11 +39,15 @@ a h1:hover {
     color: #FB0E7D;
 }
 
-a h1: visited{
-    color:#BF3;
-
+a h1: visited {
+    color: #BF3; 
 }
 
+
+
+a footer:hover{
+    color: #BF3;
+}
 
 
 h2{
