@@ -218,11 +218,11 @@ footer {
 
 
 #about {
-    grid-column: 1/5;
+    grid-column: 1/4;
 }
 
 #caption {
-    grid-column: 5/11;
+    grid-column: 5/10;
 }
 
 
@@ -282,5 +282,6 @@ footer {
 }
 
 #splash {
-    background-image: ;
+    background-image: url("../img/splash.png");
+    background-size: cover;
 }
