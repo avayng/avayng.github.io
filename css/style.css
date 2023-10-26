@@ -16,6 +16,7 @@ body {
     color:white;
     line-height: 1.5;
     margin: 5rem auto;
+    
 }
 
 
@@ -198,4 +199,19 @@ footer {
 
 #libris {
     grid-column: 5/10;
+}
+
+
+
+#about {
+    grid-column: 1/5;
+}
+
+#caption {
+    grid-column: 5/11;
+}
+
+
+#contact {
+    grid-column: 1/9;
 }
