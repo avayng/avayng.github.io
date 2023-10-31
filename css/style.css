@@ -132,7 +132,7 @@ footer {
 }
 
 #description1 {
-    grid-column: 7/10;
+    grid-column: 7/11;
     grid-row: 1/2; 
   
 
@@ -186,24 +186,24 @@ footer {
 
 
 #paula {
-    grid-column: 1/5;
+    grid-column: 1/4;
 }
 
 #paula2 {
-    grid-column: 5/9;
+    grid-column: 6/8;
 }
 
 #paula3 {
-    grid-column: 1/5;
+    grid-column: 1/4;
 
 }
 
 #paula4 {
-    grid-column: 5/9;
+    grid-column: 6/9;
 }
 
 #description5 {
-    grid-column: 10/12;
+    grid-column: 12/12;
 }
 
 
@@ -285,3 +285,4 @@ footer {
     background-image: url("../img/splash.png");
     background-size: cover;
 }
+
