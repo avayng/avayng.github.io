@@ -224,15 +224,11 @@ footer {
 
 
 #about {
-    width: 75%; 
+    width: 50%; 
     margin: auto; 
     display: flex;
 }
 
-
-#caption {
-   grid-column: 6/12;
-}
 
 
 #contact {
