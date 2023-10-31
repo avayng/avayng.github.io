@@ -36,6 +36,10 @@ header {
 
 }
 
+p {
+    font-size: 19px;
+}
+
 h1{
     font-size: 50px;
     font-style: normal;
@@ -195,11 +199,13 @@ footer {
 
 #paula3 {
     grid-column: 1/4;
+   
 
 }
 
 #paula4 {
     grid-column: 6/9;
+    grid-row: 1/2;
 }
 
 #description5 {
@@ -218,11 +224,14 @@ footer {
 
 
 #about {
-    grid-column: 1/4;
+    width: 75%; 
+    margin: auto; 
+    display: flex;
 }
 
+
 #caption {
-    grid-column: 5/10;
+   grid-column: 6/12;
 }
 
 
@@ -286,3 +295,7 @@ footer {
     background-size: cover;
 }
 
+#zinepages {
+    text-decoration: underline;
+    grid-column: 1/3;
+}
