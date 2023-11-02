@@ -222,24 +222,29 @@ footer {
 }
 
 
+#try2 {
+    grid-column: 1/4;
+}
 
-#about {
-    width: 50%; 
-    margin: auto; 
-    display: flex;
+#idk {
+    grid-column: 5/12;
+    text-align: left;
 }
 
 
+#insta {
+    grid-column: 3/7;
+}
 
 #contact {
     grid-column: 1/9;
 }
 
 #pink {
-    grid-column: 0/1;
+    grid-column: 1/2;
 }
 #blue {
-    grid-column: 01;
+    grid-column: 0/1;
 }
 #green {
     grid-column: 0/1;
